@@ -1,2 +1,3 @@
 # hello-world
-This is my begin repository
+Hi there!
+This is my begin repository.
